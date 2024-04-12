@@ -255,7 +255,7 @@ params:
         featuredLink:
           enable: false
           name: ""
-      - title: "Collège LAROCHOTTTE"
+      - title: "Brevet des Collèèges"
         school:
           name: "Collège LAROCHOTTTE"
           url: "https://example.org"
