@@ -253,9 +253,8 @@ params:
           - Face mask detection using a single convolutional neural network.
           
         featuredLink:
-          enable: true
-          name: "Brevet des collèges"
-          url: "https://clg-la-rochotte.monbureaunumerique.fr/"
+          enable: false
+          name: ""
       - title: "Collège LAROCHOTTTE"
         school:
           name: "Collège LAROCHOTTTE"
