@@ -137,21 +137,11 @@ params:
       url: "#"
       download: false
       newPage: false
-    socialLinks:
-      fontAwesomeIcons:
-        - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-x-twitter
-          url: https://example.com
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
 
   # About
   about:
     enable: true
-    title: "About Me"
-    image: "/images/me.png"
+    title: "Sur Moi"
     content: |-
       I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
 
@@ -238,42 +228,42 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+    
+      - title: "BTS Services informatiques aux organisations option solutions logicielles et applications métiers"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
+          name: "Lycée Edme Bouchardon"
+          url: "https://lyc-bouchardon.monbureaunumerique.fr/"
+        date: "2023 - 2024"
         GPA: "3.8 out of 5.0"
         content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+          Activité Extrascolaire
+            - Sport en Club = BasketBall
             - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
+            
+      - title: "Baccalauréat général"
         school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
+          name: "Lycée Edme BOUCHARDON"
+          url: "https://lyc-bouchardon.monbureaunumerique.fr/"
+        date: "2022 - 2023"
         GPA: "3.9 out of 5.0"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
+          Activité Extrascolaire
+            - Sport en Club = BasketBall
           - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
           - Face mask detection using a single convolutional neural network.
-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+          
         featuredLink:
           enable: true
-          name: "My academic record"
-          url: "https://example.com"
-      - title: "High School"
+          name: "Brevet des collèges"
+          url: "https://clg-la-rochotte.monbureaunumerique.fr/"
+      - title: "Collège LAROCHOTTTE"
         school:
-          name: "Thomas Jefferson High School for Science and Technology."
+          name: "Collège LAROCHOTTTE"
           url: "https://example.org"
         GPA: "4.2 out of 5.0"
         featuredLink:
           enable: true
-          url: "https://example.com"
+          url: "https://clg-la-rochotte.monbureaunumerique.fr/"
 
   # Achievements
   achievements:
