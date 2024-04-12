@@ -249,15 +249,16 @@ params:
         content: |-
           Activité Extrascolaire
             - Sport en Club = BasketBall
-          - Face mask detection using a single convolutional neural network.
-          
+          - Face mask detection using a single convolutional neural network     
         featuredLink:
           enable: false
           name: ""
+          
       - title: "Brevet des Collèèges"
         school:
           name: "Collège LAROCHOTTTE"
           url: "https://example.org"
+        date: "2014 - 2018"
         GPA: "4.2 out of 5.0"
         featuredLink:
           enable: false
