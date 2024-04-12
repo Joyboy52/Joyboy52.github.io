@@ -249,7 +249,6 @@ params:
         content: |-
           Activité Extrascolaire
             - Sport en Club = BasketBall
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
           - Face mask detection using a single convolutional neural network.
           
         featuredLink:
