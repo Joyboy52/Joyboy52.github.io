@@ -234,7 +234,6 @@ params:
           name: "Lycée Edme Bouchardon"
           url: "https://lyc-bouchardon.monbureaunumerique.fr/"
         date: "2023 - 2024"
-        GPA: "3.8 out of 5.0"
         content: |-
           Activité Extrascolaire
             - Sport en Club = BasketBall
@@ -245,7 +244,6 @@ params:
           name: "Lycée Edme BOUCHARDON"
           url: "https://lyc-bouchardon.monbureaunumerique.fr/"
         date: "2019 - 2022"
-        GPA: "3.9 out of 5.0"
         content: |-
           Activité Extrascolaire
             - Sport en Club = BasketBall
@@ -259,7 +257,6 @@ params:
           name: "Collège LAROCHOTTTE"
           url: "https://example.org"
         date: "2014 - 2018"
-        GPA: "4.2 out of 5.0"
         content: |-
           Activité Extrascolaire
             - Sport en Club = BasketBall
