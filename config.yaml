@@ -262,7 +262,7 @@ params:
           url: "https://example.org"
         GPA: "4.2 out of 5.0"
         featuredLink:
-          enable: true
+          enable: false
           url: "https://clg-la-rochotte.monbureaunumerique.fr/"
 
   # Achievements
