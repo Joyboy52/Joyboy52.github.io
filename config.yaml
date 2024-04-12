@@ -260,6 +260,10 @@ params:
           url: "https://example.org"
         date: "2014 - 2018"
         GPA: "4.2 out of 5.0"
+        content: |-
+          Activité Extrascolaire
+            - Sport en Club = BasketBall
+          - Face mask detection using a single convolutional neural network   
         featuredLink:
           enable: false
           url: "https://clg-la-rochotte.monbureaunumerique.fr/"
