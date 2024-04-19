@@ -185,7 +185,7 @@ params:
           enable: true
           url: "https://www.tillitsocks.com/"
         info:
-          enable: true 
+          enable: false 
         content: |
           J'ai travaillé en tant que développeur de site chez Tillit dans le cadre d'un stage où j'ai eu pour mission :
 
