@@ -170,7 +170,7 @@ params:
           enable: true
           url: "https://joyboy52.github.io/SN-CERI/"
         content: |
-          "J'ai travaillé en tant que développeur de site chez SN-CERI dans le cadre d'un stage où j'ai eu pour mission :"
+          J'ai travaillé en tant que développeur de site chez SN-CERI dans le cadre d'un stage où j'ai eu pour mission :
 
           - Créer un site  le Site de l'entreprise
           - Concevoir un tableau Excel pour la gestion des production par employé
@@ -187,7 +187,7 @@ params:
         info:
           enable: true 
         content: |
-          "J'ai travaillé en tant que développeur de site chez Tillit dans le cadre d'un stage où j'ai eu pour mission :"
+          J'ai travaillé en tant que développeur de site chez Tillit dans le cadre d'un stage où j'ai eu pour mission :
 
           - Mettre à jour le Site de l'entreprise
           - Gérer la base de données des articles vendus
@@ -312,28 +312,13 @@ params:
   contact:
     enable: true
     # title: "Custom Name"
-    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    btnName: Mail me
+    btnName: Envoyez moi un mail
     btnLink: mailto:ekangadorien@gmail.com
     # formspree:
     #   enable: true # `contact.email` value will be ignored
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
     #   emailCaption: "Enter your email address"
     #   messageCaption: "Enter your message here"
-
-  footer:
-    recentPosts:
-      path: "blogs"
-      count: 3
-      title: Recent Posts
-      enable: false
-      disableFeaturedImage: false
-    socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
 
   # List pages like blogs and posts
   listPages:
