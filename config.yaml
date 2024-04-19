@@ -126,7 +126,6 @@ params:
     intro: "Bonjour, mon nom est"
     title: "Dorien."
     subtitle: "Voici mon portfolio"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
     image: /images/hero.jpg
     bottomImage:
       enable: true
@@ -171,10 +170,11 @@ params:
           enable: true
           url: "https://joyboy52.github.io/SN-CERI/"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          "J'ai travaillé en tant que développeur de site chez SN-CERI dans le cadre d'un stage où j'ai eu pour mission :"
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Créer un site  le Site de l'entreprise
+          - Concevoir un tableau Excel pour la gestion des production par employé
+          - Concevoir un tableau Excel pour la gestion des commandes des clients 
 
           
       - job: "Developpeur"
@@ -191,7 +191,6 @@ params:
 
           - Mettre à jour le Site de l'entreprise
           - Gérer la base de données des articles vendus
-          -
 
           
   # Education
