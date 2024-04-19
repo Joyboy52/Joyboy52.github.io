@@ -171,7 +171,7 @@ params:
           enable: false
         featuredLink:
           enable: true
-          url: "https://example.com"
+          url: "https://joyboy52.github.io/SN-CERI/"
         content: |
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
@@ -185,7 +185,7 @@ params:
         date: "Sep 2020 - Dec 2021"
         featuredLink:
           enable: true
-          url: "https://example.com"
+          url: "https://www.tillitsocks.com/"
         info:
           enable: true
           content: I worked as a software developer for more than one year in Amazon.
