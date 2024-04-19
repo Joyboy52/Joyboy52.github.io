@@ -126,6 +126,7 @@ params:
     intro: "Bonjour, mon nom est"
     title: "Dorien."
     subtitle: "Voici mon portfolio"
+    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
     image: /images/hero.jpg
     bottomImage:
       enable: true
@@ -169,12 +170,12 @@ params:
         featuredLink:
           enable: true
           url: "https://joyboy52.github.io/SN-CERI/"
-        content: 
-            En travaillant en tant que développeur de site chez Tillit dans le cadre du stage où mes missions avait pour but
-          - Créer un Site de présentation en fonction des demandes du patron
-          - Gérer la base de données des articles vendus
-          - mettre en place un tableau excel de gestion des productions
-          - mette en place un tablleau excel de gestion des commandes
+        content: |
+          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+
+          - Lead backend developer for a product.
+          - Created a frontend design for a product.
+
           
       - job: "Developpeur"
         company: "TilliT"
@@ -185,10 +186,12 @@ params:
           url: "https://www.tillitsocks.com/"
         info:
           enable: true 
-        content: 
-        En travaillant en tant que développeur de site chez Tillit dans le cadre du stage où mes missions avait pour but
-          -Mettre à jour le Site de vende de TilliT en fonction des demandes du patron
-          -Gérer la base de données des articles vendus
+        content: |
+          "J'ai travaillé en tant que développeur de site chez Tillit dans le cadre d'un stage où j'ai eu pour mission :"
+
+          - Mettre à jour le Site de l'entreprise
+          - Gérer la base de données des articles vendus
+          -
 
           
   # Education
@@ -203,7 +206,7 @@ params:
           name: "Lycée Edme Bouchardon"
           url: "https://lyc-bouchardon.monbureaunumerique.fr/"
         date: "2023 - 2024"
-        content:
+        content: |-
           Activité Extrascolaire
             - Sport en Club = BasketBall
             - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
