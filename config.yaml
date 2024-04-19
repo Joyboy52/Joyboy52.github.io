@@ -143,19 +143,17 @@ params:
     enable: true
     title: "Sur Moi"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
-
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      "Je suis un étudiant en BTS SIO en option SLAM , j'ai un fort interet pour l'informatique.
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "Voici les langages que nous avons vu lors de ma formation :"
       items:
         - "HTML"
         - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "ReactNative"
+        - "C#"
+        - "XML"
+        - "PHP"
 
   # Experience
   experience:
@@ -166,7 +164,7 @@ params:
       - job: "Developpeur"
         company: "SN-CERI"
         companyUrl: "https://joyboy52.github.io/SN-CERI/"
-        date: "Jan 2020 - Aug 2020"
+        date: "Janvier 2024 - Mars 2024"
         info:
           enable: false
         featuredLink:
@@ -182,18 +180,18 @@ params:
       - job: "Developpeur"
         company: "TilliT"
         companyUrl: "https://www.tillitsocks.com/"
-        date: "Sep 2020 - Dec 2021"
+        date: "mai 2023 - juin 2023"
         featuredLink:
           enable: true
           url: "https://www.tillitsocks.com/"
         info:
-          enable: true
-          content: I worked as a software developer for more than one year in Amazon.
+          enable: true 
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          "J'ai travaillé en tant que développeur de site chez Tillit dans le cadre d'un stage où j'ai eu pour mission :"
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Mettre à jour le Site de l'entreprise
+          - Gérer la base de données des articles vendus
+          -
 
           
   # Education
