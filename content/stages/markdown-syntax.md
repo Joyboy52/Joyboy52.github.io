@@ -13,7 +13,7 @@ description: ""
 toc:
 ---
 
-## Stage deuxième année
+## Stage première année
 J'ai travaillé en tant que développeur de site chez Tillit dans le cadre d'un stage où j'ai eu pour mission :
 
   - Mettre à jour le Site de l'entreprise
