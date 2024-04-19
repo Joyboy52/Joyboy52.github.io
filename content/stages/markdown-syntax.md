@@ -12,6 +12,8 @@ image: /images/post.PNG
 description: ""
 toc:
 ---
+
+## Stage deuxième année
 J'ai travaillé en tant que développeur de site chez Tillit dans le cadre d'un stage où j'ai eu pour mission :
 
   - Mettre à jour le Site de l'entreprise
