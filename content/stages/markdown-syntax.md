@@ -1,6 +1,6 @@
 ---
 title: "TilliT"
-date: 2023-05-03T29:29:21+05:30
+date: 2023-05-29T29:29:21+05:30
 draft: false
 github_link: "[https://github.com/gurusabarish/hugo-profile](https://www.tillitsocks.com/)"
 author: "EKANGA Dorien"
