@@ -126,7 +126,6 @@ params:
     intro: "Bonjour, mon nom est"
     title: "Dorien."
     subtitle: "Voici mon portfolio"
-    content:
     image: /images/hero.jpg
     bottomImage:
       enable: true
