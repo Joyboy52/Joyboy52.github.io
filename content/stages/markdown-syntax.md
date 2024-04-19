@@ -1,14 +1,14 @@
 ---
-title: "Markdown Syntax"
-date: 2021-04-03T23:29:21+05:30
+title: "TilliT"
+date: 2023-05-03T29:29:21+05:30
 draft: false
-github_link: "https://github.com/gurusabarish/hugo-profile"
-author: "Gurusabarish"
+github_link: "[https://github.com/gurusabarish/hugo-profile](https://www.tillitsocks.com/)"
+author: "gurusabarish"
 tags:
   - Markdown syntax
   - Sample
   - example
-image: /images/post.jpg
+image: /images/post.PNG
 description: ""
 toc:
 ---
