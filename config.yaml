@@ -169,12 +169,11 @@ params:
         featuredLink:
           enable: true
           url: "https://joyboy52.github.io/SN-CERI/"
-        content: |
-           J'ai travaillé en tant que développeur de site chez Tillit dans le cadre d'un stage où j'ai eu pour mission :
+        content: |"J'ai travaillé en tant que développeur de site chez Tillit dans le cadre d'un stage où j'ai eu pour mission :
           - Mettre à jour le Site de l'entreprise en fonction des demandes du patron
           - Gérer la base de données des articles vendus
           - mettre en place un tableau excel de gestion des productions
-          - mette en place un tablleau excel de gestion des commandes
+          - mette en place un tablleau excel de gestion des commandes"
           
       - job: "Developpeur"
         company: "TilliT"
@@ -185,10 +184,9 @@ params:
           url: "https://www.tillitsocks.com/"
         info:
           enable: true 
-        content: |
-          J'ai travaillé en tant que développeur de site chez Tillit dans le cadre d'un stage où j'ai eu pour mission :
-          - Mettre à jour le Site de l'entreprise en fonction des demandes du patron
-          - Gérer la base de données des articles vendus
+        content: |"J'ai travaillé en tant que développeur de site chez Tillit dans le cadre d'un stage où j'ai eu pour mission 
+          Mettre à jour le Site de l'entreprise en fonction des demandes du patron
+          Gérer la base de données des articles vendus"
 
           
   # Education
