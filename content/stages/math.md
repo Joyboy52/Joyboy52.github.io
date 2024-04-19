@@ -2,7 +2,7 @@
 title: "SN-CERI"
 date: 2022-12-09T19:53:33+05:30
 draft: false
-author: "Gurusabarish"
+author: "EKANGA Dorien"
 tags:
   - Markdown syntax
   - Mathjax
@@ -12,27 +12,10 @@ description: ""
 toc: true
 mathjax: true
 ---
+## Stage deuxième année
+J'ai travaillé en tant que développeur de site chez SN-CERI dans le cadre d'un stage où j'ai eu pour mission :
 
-## Mathjax
-
-Math equations can be rendered using [Mathjax](https://www.mathjax.org) syntax with AMS symbol support.
-
-Optionally enable this on a per-page basis by adding `mathjax: true` to your frontmatter.
-
-Then, use `$$ ... $$` on a line by itself to render a block equation:
-
-$$ | Pr_{x \leftarrow P_{1}} [A(x) = 1] - Pr_{x \leftarrow P_{2}} [A(x) = 1] | < \text{negligible} $$
-
-The raw version is:
-
-```
-$$ | Pr_{x \leftarrow P_{1}} [A(x) = 1] - Pr_{x \leftarrow P_{2}} [A(x) = 1] | < \text{negligible} $$
-```
-
-
-Write in-line equations with `\\( ... \\)` , like \\( x^n / y \\) . It's easy!
-
-```
-Write in-line equations with `\\( ... \\)` , like \\( x^n / y \\) . It's easy!
-```
+ - Créer un site  le Site de l'entreprise
+ - Concevoir un tableau Excel pour la gestion des production par employé
+ - Concevoir un tableau Excel pour la gestion des commandes des clients 
 
