@@ -311,7 +311,7 @@ params:
   #Contact
   contact:
     enable: true
-    # title: "Custom Name"
+    #title: "Custom Name"
     btnName: Envoyez moi un mail
     btnLink: mailto:ekangadorien@gmail.com
     # formspree:
