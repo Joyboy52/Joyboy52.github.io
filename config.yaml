@@ -169,11 +169,11 @@ params:
         featuredLink:
           enable: true
           url: "https://joyboy52.github.io/SN-CERI/"
-        content: |"J'ai travaillé en tant que développeur de site chez Tillit dans le cadre d'un stage où j'ai eu pour mission :
-          - Mettre à jour le Site de l'entreprise en fonction des demandes du patron
-          - Gérer la base de données des articles vendus
-          - mettre en place un tableau excel de gestion des productions
-          - mette en place un tablleau excel de gestion des commandes"
+        content: "J'ai travaillé en tant que développeur de site chez Tillit dans le cadre d'un stage où j'ai eu pour mission :"
+          "- Mettre à jour le Site de l'entreprise en fonction des demandes du patron"
+          "- Gérer la base de données des articles vendus"
+          "- mettre en place un tableau excel de gestion des productions"
+          "- mette en place un tablleau excel de gestion des commandes"
           
       - job: "Developpeur"
         company: "TilliT"
@@ -184,9 +184,9 @@ params:
           url: "https://www.tillitsocks.com/"
         info:
           enable: true 
-        content: |"J'ai travaillé en tant que développeur de site chez Tillit dans le cadre d'un stage où j'ai eu pour mission 
-          Mettre à jour le Site de l'entreprise en fonction des demandes du patron
-          Gérer la base de données des articles vendus"
+        content: "J'ai travaillé en tant que développeur de site chez Tillit dans le cadre d'un stage où j'ai eu pour mission :"
+          "Mettre à jour le Site de l'entreprise en fonction des demandes du patron"
+          "Gérer la base de données des articles vendus"
 
           
   # Education
@@ -201,7 +201,7 @@ params:
           name: "Lycée Edme Bouchardon"
           url: "https://lyc-bouchardon.monbureaunumerique.fr/"
         date: "2023 - 2024"
-        content: |-
+        content:
           Activité Extrascolaire
             - Sport en Club = BasketBall
             - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
